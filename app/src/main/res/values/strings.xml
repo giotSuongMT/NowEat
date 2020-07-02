@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Now Eat</string>
+
+    <string name="tv_slogan">Yêu là phải nói, đói là phải ăn</string>
+    <string name="forgot_password">Forgot password?</string>
+
+    <string name="hello">Hello again."\n"Welcome back.</string>
+
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="input_phone">Input phone</string>
+    <string name="pass">PASSWORD</string>
+    <string name="input_password">Input password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_to_friendly_design">New to Friendly Design? </string>
+    <string name="sign_up">Sign up</string>
+</resources>

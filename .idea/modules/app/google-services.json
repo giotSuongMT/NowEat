@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477418168106",
+    "firebase_url": "https://noweat-97651.firebaseio.com",
+    "project_id": "noweat-97651",
+    "storage_bucket": "noweat-97651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477418168106:android:95231c9bd48af96f400853",
+        "android_client_info": {
+          "package_name": "com.example.noweat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477418168106-as5e8t7fafruht8cr6d4ranng06dnfa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noweat",
+            "certificate_hash": "e4ad844babbee26ff4175dd7f011db6d4487123c"
+          }
+        },
+        {
+          "client_id": "477418168106-c1ii8fr0hj7tcolk1327971jpt4g84q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCWCkydEmls5q-V40j6fo5POxz2MSk6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477418168106-c1ii8fr0hj7tcolk1327971jpt4g84q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<!-- Style for text -->
+    <style name="TextStyle23">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/darkish_pink</item>
+    </style>
+    <style name="TextStyle22">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/dark_two</item>
+    </style>
+    <style name="TextStyle21">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">4sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextStyle20">
+        <item name="android:gravity">end</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/dark_blue_grey</item>
+    </style>
+    <style name="TextStyle19">
+        <item name="android:textSize">10sp</item>
+        <item name="android:lineSpacingExtra">0sp</item>
+        <item name="android:textColor">@color/dark_blue_grey</item>
+    </style>
+    <style name="TextStyle18">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/dark_blue_grey</item>
+    </style>
+    <style name="TextStyle17">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">9sp</item>
+        <item name="android:textColor">@color/dark_blue_grey</item>
+    </style>
+
+</resources>
